@@ -19,12 +19,12 @@ Leia o enunciado completo no Canvas.
 
 ## Print da Home-Page
 
-![homepage](public/Bootstrap.png)
+![homepage](./public/Bootstrap.png)
 
 ## Print da página de detalhes do item
 
 
-![detalhes](public/detalhes.png)
+![detalhes](./public/detalhes.png)
 
 ## Cole aqui abaixo a estrutura JSON utilizada no app.js
 
