@@ -9,15 +9,15 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Thawan Anthony Lourenço Silva
+- Matricula: 1594182
+- Proposta de projeto escolhida: Site de Pizzaria
+- Breve descrição sobre seu projeto: 
 
 **Print da tela com a implementação**
 
-<< Coloque aqui uma breve explicação da implementação feita nessa etapa>>
+Fiz um API de mapa que um suposto local da minha Pizzaria
 
-<<  COLOQUE A IMAGEM TELA 1 AQUI >>
+![teste1](Teste1.png)
 
-<<  COLOQUE A IMAGEM TELA 2 AQUI >>
+![teste2](teste2.png)
