@@ -1,0 +1,23 @@
+[
+  {
+    "codigo": 1,
+    "nome": "Calabresa",
+    "foto": "pizzacalabreso.avif",
+    "texto": "Deliciosa pizza de calabresa com cebola e azeitonas.",
+    "preco": "R$ 39,90"
+  },
+  {
+    "codigo": 2,
+    "nome": "Marguerita",
+    "foto": "PizzaMargarita.jpeg",
+    "texto": "Marguerita com tomate, manjericão e mussarela.",
+    "preco": "R$ 42,90"
+  },
+  {
+    "codigo": 3,
+    "nome": "Frango com Catupiry",
+    "foto": "PizzaFrangoCatupiri",
+    "texto": "Frango desfiado com catupiry e azeitonas.",
+    "preco": "R$ 44,90"
+  }
+]
