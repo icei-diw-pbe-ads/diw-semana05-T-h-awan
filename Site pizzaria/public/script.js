@@ -185,3 +185,14 @@ function montarCardapioNaHome(listaDePizzas) {
 
 window.onload = montarCardapioNaHome;
 console.log(pedido);
+
+id = map = L.map('map').setView([-23.55052, -46.633308], 20);
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '&copy; OpenStreetMap contributors'
+}).addTo(map);
+zoom: 13;
+
+L.marker([-23.55052, -46.634440]).addTo(map)
+  .bindPopup('Nossa Pizzaria está aqui!')
+  .openPopup();
