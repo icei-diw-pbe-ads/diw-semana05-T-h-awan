@@ -19,5 +19,12 @@
     "foto": "PizzaFrangoCatupiri",
     "texto": "Frango desfiado com catupiry e azeitonas.",
     "preco": "R$ 44,90"
+  },
+  {
+    "codigo": 4,
+    "nome": "4 queijos",
+    "foto": "pizza4queijos.jpeg",
+    "texto": "Frango desfiado com catupiry e azeitonas.",
+    "preco": "R$ 39,90"
   }
 ]
